@@ -1,0 +1,20 @@
+{
+  "name": "Chara",
+  "role": "protagonist",
+  "species": "human",
+  "gender": "female",
+  "age": "adult",
+  "appearance": {
+    "hair": {
+      "color": "brown",
+      "length": "shoulder length"
+    },
+    "eyes": {
+      "color": "red"
+    },
+    "clothing": {
+      "shirt": "red and green striped shirt",
+      "pants": "brown pants"
+    }
+  }
+}
